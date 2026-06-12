@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', '158.160.219.66', 'taski.semomov.com']
+ALLOWED_HOSTS = ['localhost', '158.160.219.66', 'taski.kitygram.dynv6.net']
 
 
 # Application definition
